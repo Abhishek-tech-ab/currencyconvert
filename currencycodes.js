@@ -1,0 +1,18 @@
+const countryList = {
+    AED:"AE",
+    AFN:"AF",
+    XCD: "AG",
+    ALL:"AL",
+    ANG:"AN",
+    AOA: "AO",
+    AQD: "AQ",
+    INR: "IN",
+    USD: "US",
+    EUR: "EUR",
+    VEF: "VE",
+    VND: "VN",
+    VUV: "VU",
+    YER: "YE",
+    ZAR: "ZA",
+    ZWD: "ZW",
+};
